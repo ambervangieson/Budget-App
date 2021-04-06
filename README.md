@@ -6,7 +6,7 @@ Deployed application link: (https://budget-app10.herokuapp.com/)
 
 The following images demonstrate the application functionality:
 
-![Alt Text](/public/assets/example1.PNG)
+![Alt Text](./assets/example1.PNG)
 
 
 
